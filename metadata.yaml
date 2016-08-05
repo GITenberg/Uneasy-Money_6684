@@ -1,0 +1,34 @@
+_repo: Uneasy-Money_6684
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wodehouse, P. G. (Pelham Grenville)
+    aliases:
+    - Windham, Basil
+    - Wodehouse, Pelham Grenville
+    birthdate: 1881
+    deathdate: 1975
+    gutenberg_agent_id: '783'
+    url: http://www.gutenberg.org/2009/agents/783
+    wikipedia: http://en.wikipedia.org/wiki/P._G._Wodehouse
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6684'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'British -- United States -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Aristocracy (Social class) -- Fiction'
+- !lcsh 'Humorous stories'
+- GITenberg
+title: Uneasy Money
+url: http://www.gutenberg.org/ebooks/6684
